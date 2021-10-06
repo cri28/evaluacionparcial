@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">evaluacion</string>
+    <string name="USUARIO">USUARIO</string>
+    <string name="CLAVE">CLAVE</string>
+    <string name="botoncito">CONECTAR</string>
+
+    <string name="hombres">HOMBRES</string>
+    <string name="mujeres">MUJERES</string>
+    <string name="total">TOTAL</string>
+    <string name="nombre">NOMBRE</string>
+    <string name="edad">EDAD</string>
+    <string name="genero">GENERO</string>
+    <string name="agregar">AGREGAR</string>
+</resources>
